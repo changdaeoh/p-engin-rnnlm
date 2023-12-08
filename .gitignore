@@ -1,0 +1,15 @@
+env
+*.pyc
+data/
+lm_cache
+lm_cache/
+.idea
+
+*.egg-info/
+
+results/
+results_pe/
+wandb/
+
+*.txt
+
